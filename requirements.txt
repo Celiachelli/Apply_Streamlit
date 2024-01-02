@@ -1,2 +1,5 @@
 streamlit
 beautifulsoup4
+plotly
+# Ajoutez toutes les autres dépendances nécessaires ici
+
